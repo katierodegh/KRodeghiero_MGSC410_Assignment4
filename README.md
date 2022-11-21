@@ -19,3 +19,4 @@ The deliverable is PDF report of the analysis as well as the supporting code in 
 - https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 - https://www.investopedia.com/financial-edge/0912/which-income-class-are-you.aspx#:~:text=The%20Pew%20Research%20Center%20defines,make%20between%20%2443%2C350%20and%20%24130%2C000
 - https://towardsdatascience.com/9-visualizations-that-catch-more-attention-than-a-bar-chart-72d3aeb2e091
+- https://towardsdatascience.com/the-easiest-way-to-plot-data-from-pandas-on-a-world-map-1a62962a27f3
